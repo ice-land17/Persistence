@@ -1,0 +1,5 @@
+﻿  Operator.c
+E:\Visual Studio\code practcie\C语言\Test1-8初识C语言(8)操作符\Test1-8初识C语言操作符(1)\Test1-8初识C语言操作符(1)\Operator.c(288,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Visual Studio\code practcie\C语言\Test1-8初识C语言(8)操作符\Test1-8初识C语言操作符(1)\Test1-8初识C语言操作符(1)\Operator.c(288,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\Visual Studio\code practcie\C语言\Test1-8初识C语言(8)操作符\Test1-8初识C语言操作符(1)\Test1-8初识C语言操作符(1)\Operator.c(288,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  Test1-8初识C语言操作符(1).vcxproj -> E:\Visual Studio\code practcie\C语言\Test1-8初识C语言(8)操作符\Test1-8初识C语言操作符(1)\Test1-8初识C语言操作符(1)\x64\Debug\Test1-8初识C语言操作符(1).exe

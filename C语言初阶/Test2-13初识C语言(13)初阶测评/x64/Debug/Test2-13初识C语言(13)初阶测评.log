@@ -1,0 +1,4 @@
+﻿  Preliminary evaluation.c
+E:\Visual Studio\code practcie\C语言初阶\Test2-13初识C语言(13)初阶测评\Preliminary evaluation.c(152,2): warning C4013: “gets”未定义；假设外部返回 int
+E:\Visual Studio\code practcie\C语言初阶\Test2-13初识C语言(13)初阶测评\Preliminary evaluation.c(153,12): warning C4013: “strlen”未定义；假设外部返回 int
+  Test2-13初识C语言(13)初阶测评.vcxproj -> E:\Visual Studio\code practcie\C语言初阶\Test2-13初识C语言(13)初阶测评\x64\Debug\Test2-13初识C语言(13)初阶测评.exe

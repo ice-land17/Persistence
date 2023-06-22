@@ -1,0 +1,8 @@
+﻿  Homework(2).c
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(161,19): warning C4047: “=”:“int”与“char [2]”的间接级别不同
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(161,34): warning C4047: “<=”:“int”与“char [2]”的间接级别不同
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(163,21): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(163,39): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(163,57): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Homework(2).c(163,75): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+  作业讲解(2).vcxproj -> E:\Visual Studio\code practcie\C语言进阶\作业讲解(2)\Debug\作业讲解(2).exe

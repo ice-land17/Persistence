@@ -1,0 +1,4 @@
+﻿  Pointer Advanced(2).c
+E:\Visual Studio\code practcie\C语言进阶\指针进阶(1)\指针进阶(2)\Pointer Advanced(2).c(55,8): warning C4101: “arr”: 未引用的局部变量
+E:\Visual Studio\code practcie\C语言进阶\指针进阶(1)\指针进阶(2)\Pointer Advanced(2).c(56,7): warning C4101: “arr2”: 未引用的局部变量
+  指针进阶(2).vcxproj -> E:\Visual Studio\code practcie\C语言进阶\指针进阶(1)\指针进阶(2)\x64\Debug\指针进阶(2).exe

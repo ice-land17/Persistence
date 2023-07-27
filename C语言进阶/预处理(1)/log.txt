@@ -1,0 +1,10 @@
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=0
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=1
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=2
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=3
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=4
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=5
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=6
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=7
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=8
+name:main file:E:\Visual Studio\code practcie\C语言进阶\预处理(1)\Pre processing (1).c line:28 date:Jul 24 2023 time:19:37:54 i=9

@@ -1,0 +1,8 @@
+﻿  SList.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\链表\SList.h(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Test.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\链表\SList.h(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\链表\Test.c(71,16): warning C4047: “函数”:“SLTNode **”与“SLTNode *”的间接级别不同
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\链表\Test.c(71,16): warning C4024: “SListPopFront”: 形参和实参 1 的类型不同
+  正在生成代码...
+  链表.vcxproj -> E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\链表\x64\Debug\链表.exe

@@ -1,0 +1,5 @@
+﻿  List.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\双向链表\List.c(6,26): warning C4013: “malloc”未定义；假设外部返回 int
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\双向链表\List.c(6,48): warning C4312: “类型强制转换”: 从“int”转换到更大的“LTNode *”
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\双向链表\List.c(10,3): warning C4013: “exit”未定义；假设外部返回 int
+  双向链表.vcxproj -> E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\初阶数据结构\双向链表\x64\Debug\双向链表.exe

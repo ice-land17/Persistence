@@ -1,0 +1,6 @@
+﻿  game.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\C语言初阶\Test1-7初识C语言(7)数组\三子棋\Three Piece Chess Game\game.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\C语言初阶\Test1-7初识C语言(7)数组\三子棋\Three Piece Chess Game\game.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Three Piece Chess Game.vcxproj -> E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\C语言初阶\Test1-7初识C语言(7)数组\三子棋\Three Piece Chess Game\x64\Debug\Three Piece Chess Game.exe

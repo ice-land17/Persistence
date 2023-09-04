@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\C语言初阶\Test1-7初识C语言(7)数组\三子棋\Three Piece Chess Game\test.c(23,3): warning C4013: “PlayerMove”未定义；假设外部返回 int
+  正在生成代码...
+  Three Piece Chess Game.vcxproj -> E:\杨鸿宾个人文档\编程杂烩\Visual Studio\code practcie\C语言初阶\Test1-7初识C语言(7)数组\三子棋\Three Piece Chess Game\Debug\Three Piece Chess Game.exe
